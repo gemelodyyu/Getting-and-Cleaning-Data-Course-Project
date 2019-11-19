@@ -1,0 +1,13 @@
+#Codebook 
+
+The file run_analysis.R contains the code that executes the data preparation and do the 5 transformations required for the final peer-reviewed project of the "Getting and Cleaning Data". The code executes the following steps:
+
+1. Download the file and save it locately. 
+2. Read data from the targeting files. 
+3. Merges the training and the test sets to create one data set.
+4. Extracts only the measurements on the mean and standard deviation for each measurement.
+5. Uses descriptive activity names from "activity_labels.txt" to name the activities in the data set. 
+6. Appropriately labels the data set with descriptive variable names.
+7. Creates a independent tidy data set with the average of each variable for each activity and each subject and saved it as a .txt file named "tidydata.txt". 
+
+Done. 
